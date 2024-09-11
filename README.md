@@ -44,7 +44,7 @@ The dataset includes the following key components:
 
 ## Data Analysis
 
-The analysis was performed using Python, SQL, and other data analysis tools. The following tasks were completed:
+The analysis was performed using Python. The following tasks were completed:
 
 - Calculated average prices and net revenues for different room types.
 - Analyzed neighborhood data to understand minimum stay requirements and review counts.
